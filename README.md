@@ -76,17 +76,12 @@ This program was made and tested using Ubuntu 14.04.3 LTS and Python 3.4.3 So we
 * GNU Emacs 24.3.1
 * Python 3.4.3
 
-## AUTHORS
+## AUTHOR
 
-**Luis Miguel Vargas**
+**Anuoluwa Akinsola**
 
-* [Github @luismvargasg](https://github.com/luismvargasg)
-* [LinkedIn - Luis Miguel Vargas](https://www.linkedin.com/in/luismvargasg/)
-
-**Robinson Montes**
-
-* [Github @mecomonteshbtn](https://github.com/mecomonteshbtn)
-* [LinkedIn - Robinson Montes Gómez](https://www.linkedin.com/in/robinson-montes-g%C3%B3mez/)
+* [Github @Anu-Lead](https://github.com/Anu-Lead)
+* [LinkedIn - Anuoluwa Akinsola](https://www.linkedin.com/in/anuoluwa-akinsola/)
 
 ## License
 
@@ -94,4 +89,4 @@ Opensource project.
 
 ## Acknowledgments
 
-* Project made at Holberton School - Colombia
+* Project made at ALX School
